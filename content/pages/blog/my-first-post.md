@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My First Post
 subtitle: lorem-ipsum
 date: '2021-07-19'
 categories: []
