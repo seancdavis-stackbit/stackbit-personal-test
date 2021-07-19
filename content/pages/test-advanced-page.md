@@ -62,7 +62,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/gordon-norman.png
+        image: /images/feature-2.svg
     feature_padding_vert: medium
     align: center
     padding_top: medium
