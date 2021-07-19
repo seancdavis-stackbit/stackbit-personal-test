@@ -1,6 +1,6 @@
 ---
 title: My First Post
-subtitle: lorem-ipsum
+subtitle: It's a good one!
 date: '2021-07-19'
 categories: []
 tags: []
