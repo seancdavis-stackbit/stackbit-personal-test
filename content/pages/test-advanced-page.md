@@ -34,7 +34,7 @@ sections:
     type: hero_section
     image: /images/gordon-norman.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Featues
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
