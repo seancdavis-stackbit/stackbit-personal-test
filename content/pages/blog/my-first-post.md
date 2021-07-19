@@ -20,4 +20,6 @@ Minim ut ex laboris ad anim irure esse voluptate cupidatat nisi non labore sint.
 
 Lorem do duis enim excepteur mollit aute sint pariatur pariatur. Minim magna dolor ipsum eiusmod duis et tempor occaecat aliquip eu exercitation irure eiusmod adipisicing. Reprehenderit elit irure minim mollit ad do cillum elit adipisicing cupidatat occaecat in consectetur. Cillum Lorem eu sunt Lorem aliquip incididunt est est ea ipsum qui amet amet.
 
+![](/images/feature-3.svg)
+
 Esse et cillum velit minim eu amet sunt minim. Dolor consequat reprehenderit in ut nulla consequat cupidatat eiusmod aute culpa irure ex. Culpa eiusmod exercitation aliqua ut fugiat reprehenderit laboris tempor et pariatur tempor non ex.
