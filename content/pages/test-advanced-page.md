@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Test Advanced Page
 sections: []
 seo:
   title: ''
